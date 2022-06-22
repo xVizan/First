@@ -1,2 +1,2 @@
-# FirstWebsite
+# First
 My very first website.
